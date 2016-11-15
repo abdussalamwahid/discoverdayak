@@ -28,5 +28,17 @@ section {
 	min-width: 1366px;
 	height: 520px;
 	display: block;
+}
 
+.navbar-item {
+	color: white;
+	list-style: none;
+	display: block;
+	display: inline;
+	padding: : 90px;
+}
+
+
+.navbar-induk {
+	list-style-type: none;
 }
